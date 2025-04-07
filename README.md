@@ -20,14 +20,50 @@
 
 <div align="center">
 
-<!-- 3D-Like Animated Icon Grid -->
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,html,css,js,bootstrap,react,django,mysql,git,github&theme=dark" />
+<!-- Tool icons with alt tooltips (hover text) -->
+<a href="https://www.python.org/" title="Python – Programming Language">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45" />
+</a>
+<a href="https://www.tensorflow.org/" title="TensorFlow – Deep Learning Framework">
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" height="45" />
+</a>
+<a href="https://opencv.org/" title="OpenCV – Computer Vision Library">
+  <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" height="45" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5 – Markup Language">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" height="45" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3 – Styling & Layout">
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" height="45" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript – Frontend Logic">
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="45" />
+</a>
+<a href="https://getbootstrap.com/" title="Bootstrap – Responsive Design Framework">
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="45" />
+</a>
+<a href="https://reactjs.org/" title="React.js – JavaScript UI Library">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" height="45" />
+</a>
+<a href="https://www.djangoproject.com/" title="Django – Python Web Framework">
+  <img src="https://skillicons.dev/icons?i=django" alt="Django" height="45" />
+</a>
+<a href="https://www.mysql.com/" title="MySQL – Relational Database">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="45" />
+</a>
+<a href="https://git-scm.com/" title="Git – Version Control">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="45" />
+</a>
+<a href="https://github.com/" title="GitHub – Code Hosting & Collaboration">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45" />
+</a>
 
 </div>
 
 <p align="center">
-✨ Always exploring new stacks & evolving tech landscapes ✨  
+🧠 Hover over each icon to see what they do!
 </p>
+>
 
 ### 🛰️ Projects I’ve Engineered
 
