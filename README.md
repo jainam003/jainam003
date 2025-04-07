@@ -16,13 +16,18 @@
 
 ---
 
-### ⚙️ Technologies & Tools
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+<!-- 3D-Like Animated Icon Grid -->
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,html,css,js,bootstrap,react,django,mysql,git,github&theme=dark" />
+
+</div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,opencv,html,css,js,bootstrap,react,django,mysql,git,github&perline=6" />
+✨ Always exploring new stacks & evolving tech landscapes ✨  
 </p>
-
----
 
 ### 🛰️ Projects I’ve Engineered
 
